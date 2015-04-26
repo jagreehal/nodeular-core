@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.12.3",
-     "nodeular-config": "jagreehal/nodeular-config"
+    "nodeular-config": "git://github.com/jagreehal/nodeular-config"
   },
   "repository": {
     "type": "git",
